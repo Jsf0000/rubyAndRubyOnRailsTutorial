@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1060e855-c93d-49b0-831a-79b5c4e2fc4d" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/app/views/pages/about.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/pages/home.html.erb" afterDir="false" />
-    </list>
+    <list default="true" id="1060e855-c93d-49b0-831a-79b5c4e2fc4d" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -157,7 +154,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1629739825572</updated>
-      <workItem from="1629739827307" duration="4250000" />
+      <workItem from="1629739827307" duration="9588000" />
     </task>
     <servers />
   </component>
